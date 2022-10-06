@@ -6,8 +6,8 @@ id: Principles of Data Science
 
 _Important: Please Add you name and City email address below and stage/commit/push to your Github repo._
 
-## Name:
+## Name: Quang Huy Bui
 
-## City Email:
+## City Email: Quang.Bui.2@city.ac.uk
 
 ---
